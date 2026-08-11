@@ -1,0 +1,14 @@
+# Optimization — runtime dependencies
+#
+# Deliberately kept small. All forecasting and inventory math is implemented
+# directly on pandas/numpy so the underlying operations-research work is
+# readable in the source rather than hidden behind a modelling library.
+
+pandas>=2.0
+numpy>=1.24
+streamlit>=1.30
+altair>=5.0
+PyYAML>=6.0
+
+# Development / test only
+pytest>=7.4

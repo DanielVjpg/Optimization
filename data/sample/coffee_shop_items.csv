@@ -1,0 +1,12 @@
+item,unit,unit_cost,lead_time_days,shelf_life_days,case_pack,min_order_qty,margin_per_unit,on_hand,category,supplier
+Whole Milk,gallon,4.25,2,12,4,4,62.0,78.42,Dairy & alternatives,Valley Dairy Co.
+Oat Milk,carton,3.1,3,45,12,12,21.0,27.16,Dairy & alternatives,Valley Dairy Co.
+Espresso Beans,lb,9.5,5,60,5,5,98.0,51.43,Coffee & tea,Northside Roasters
+Drip Coffee Beans,lb,7.25,5,60,5,5,74.0,45.15,Coffee & tea,Northside Roasters
+12oz Cups,unit,0.11,7,,1000,1000,0.9,1437.37,Packaging,Restaurant Depot
+16oz Cups,unit,0.13,7,,1000,1000,1.1,952.42,Packaging,Restaurant Depot
+Cup Lids,unit,0.04,7,,1000,1000,0.6,2489.52,Packaging,Restaurant Depot
+Vanilla Syrup,bottle,6.8,4,120,6,6,34.0,26.88,Syrups,Restaurant Depot
+Caramel Syrup,bottle,6.8,4,120,6,6,34.0,16.44,Syrups,Restaurant Depot
+Croissants,unit,1.35,1,2,36,36,2.75,97.11,Bakery,Corner Bakehouse
+Matcha Powder,lb,26.0,6,90,2,2,210.0,4.96,Coffee & tea,Northside Roasters

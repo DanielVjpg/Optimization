@@ -1,0 +1,1310 @@
+date,item,quantity
+2026-04-13,Whole Milk,16.1
+2026-04-14,Whole Milk,15.8
+2026-04-15,Whole Milk,16.8
+2026-04-16,Whole Milk,15.62
+2026-04-17,Whole Milk,19.85
+2026-04-18,Whole Milk,28.37
+2026-04-19,Whole Milk,21.03
+2026-04-20,Whole Milk,16.59
+2026-04-21,Whole Milk,14.14
+2026-04-22,Whole Milk,19.3
+2026-04-23,Whole Milk,15.49
+2026-04-24,Whole Milk,24.29
+2026-04-25,Whole Milk,22.02
+2026-04-26,Whole Milk,21.37
+2026-04-27,Whole Milk,17.19
+2026-04-28,Whole Milk,15.53
+2026-04-29,Whole Milk,18.91
+2026-04-30,Whole Milk,20.08
+2026-05-01,Whole Milk,21.89
+2026-05-02,Whole Milk,22.58
+2026-05-03,Whole Milk,19.0
+2026-05-04,Whole Milk,12.15
+2026-05-05,Whole Milk,15.45
+2026-05-06,Whole Milk,12.18
+2026-05-07,Whole Milk,18.81
+2026-05-08,Whole Milk,19.41
+2026-05-09,Whole Milk,24.5
+2026-05-10,Whole Milk,19.99
+2026-05-11,Whole Milk,16.42
+2026-05-12,Whole Milk,12.13
+2026-05-13,Whole Milk,16.38
+2026-05-14,Whole Milk,16.64
+2026-05-15,Whole Milk,18.04
+2026-05-16,Whole Milk,25.57
+2026-05-17,Whole Milk,18.79
+2026-05-18,Whole Milk,15.74
+2026-05-19,Whole Milk,14.44
+2026-05-20,Whole Milk,16.35
+2026-05-21,Whole Milk,16.59
+2026-05-22,Whole Milk,21.6
+2026-05-23,Whole Milk,24.96
+2026-05-24,Whole Milk,23.04
+2026-05-25,Whole Milk,14.8
+2026-05-26,Whole Milk,18.93
+2026-05-27,Whole Milk,18.41
+2026-05-28,Whole Milk,19.27
+2026-05-29,Whole Milk,20.85
+2026-05-30,Whole Milk,26.48
+2026-05-31,Whole Milk,23.89
+2026-06-01,Whole Milk,13.38
+2026-06-02,Whole Milk,18.37
+2026-06-03,Whole Milk,17.55
+2026-06-04,Whole Milk,17.21
+2026-06-05,Whole Milk,19.83
+2026-06-06,Whole Milk,26.52
+2026-06-07,Whole Milk,25.56
+2026-06-08,Whole Milk,17.96
+2026-06-09,Whole Milk,18.01
+2026-06-10,Whole Milk,16.58
+2026-06-11,Whole Milk,21.79
+2026-06-12,Whole Milk,15.49
+2026-06-13,Whole Milk,23.83
+2026-06-14,Whole Milk,24.9
+2026-06-15,Whole Milk,12.64
+2026-06-16,Whole Milk,19.08
+2026-06-17,Whole Milk,19.57
+2026-06-18,Whole Milk,19.31
+2026-06-19,Whole Milk,18.45
+2026-06-20,Whole Milk,19.58
+2026-06-21,Whole Milk,21.19
+2026-06-22,Whole Milk,14.62
+2026-06-23,Whole Milk,15.99
+2026-06-24,Whole Milk,16.19
+2026-06-25,Whole Milk,21.41
+2026-06-26,Whole Milk,20.49
+2026-06-27,Whole Milk,26.03
+2026-06-28,Whole Milk,23.81
+2026-06-29,Whole Milk,17.37
+2026-06-30,Whole Milk,20.38
+2026-07-01,Whole Milk,12.93
+2026-07-02,Whole Milk,12.69
+2026-07-03,Whole Milk,15.1
+2026-07-05,Whole Milk,15.35
+2026-07-06,Whole Milk,12.44
+2026-07-07,Whole Milk,20.4
+2026-07-08,Whole Milk,20.48
+2026-07-09,Whole Milk,17.82
+2026-07-10,Whole Milk,20.93
+2026-07-11,Whole Milk,25.26
+2026-07-12,Whole Milk,21.81
+2026-07-13,Whole Milk,17.76
+2026-07-14,Whole Milk,17.95
+2026-07-15,Whole Milk,21.11
+2026-07-16,Whole Milk,20.0
+2026-07-17,Whole Milk,21.31
+2026-07-18,Whole Milk,27.82
+2026-07-19,Whole Milk,19.79
+2026-07-20,Whole Milk,16.62
+2026-07-21,Whole Milk,17.98
+2026-07-22,Whole Milk,17.33
+2026-07-23,Whole Milk,18.15
+2026-07-24,Whole Milk,22.51
+2026-07-25,Whole Milk,24.37
+2026-07-26,Whole Milk,16.37
+2026-07-27,Whole Milk,17.61
+2026-07-28,Whole Milk,17.19
+2026-07-29,Whole Milk,17.72
+2026-07-30,Whole Milk,17.63
+2026-07-31,Whole Milk,20.68
+2026-08-01,Whole Milk,25.15
+2026-08-02,Whole Milk,25.08
+2026-08-03,Whole Milk,17.66
+2026-08-04,Whole Milk,16.36
+2026-08-05,Whole Milk,20.35
+2026-08-06,Whole Milk,17.29
+2026-08-07,Whole Milk,24.2
+2026-08-08,Whole Milk,24.68
+2026-08-09,Whole Milk,21.29
+2026-08-10,Whole Milk,16.11
+2026-04-13,Oat Milk,5.97
+2026-04-14,Oat Milk,7.08
+2026-04-15,Oat Milk,6.76
+2026-04-16,Oat Milk,6.69
+2026-04-17,Oat Milk,8.64
+2026-04-18,Oat Milk,11.71
+2026-04-19,Oat Milk,9.64
+2026-04-20,Oat Milk,6.54
+2026-04-21,Oat Milk,5.96
+2026-04-22,Oat Milk,8.65
+2026-04-23,Oat Milk,6.97
+2026-04-24,Oat Milk,11.35
+2026-04-25,Oat Milk,10.47
+2026-04-26,Oat Milk,9.11
+2026-04-27,Oat Milk,7.2
+2026-04-28,Oat Milk,6.88
+2026-04-29,Oat Milk,7.78
+2026-04-30,Oat Milk,7.32
+2026-05-01,Oat Milk,8.72
+2026-05-02,Oat Milk,10.55
+2026-05-03,Oat Milk,9.67
+2026-05-04,Oat Milk,5.78
+2026-05-05,Oat Milk,7.01
+2026-05-06,Oat Milk,4.66
+2026-05-07,Oat Milk,8.74
+2026-05-08,Oat Milk,8.51
+2026-05-09,Oat Milk,9.91
+2026-05-10,Oat Milk,9.19
+2026-05-11,Oat Milk,6.4
+2026-05-12,Oat Milk,5.29
+2026-05-13,Oat Milk,7.13
+2026-05-14,Oat Milk,6.99
+2026-05-15,Oat Milk,8.92
+2026-05-16,Oat Milk,11.38
+2026-05-17,Oat Milk,9.61
+2026-05-18,Oat Milk,6.07
+2026-05-19,Oat Milk,6.52
+2026-05-20,Oat Milk,6.76
+2026-05-21,Oat Milk,7.83
+2026-05-22,Oat Milk,7.68
+2026-05-23,Oat Milk,11.09
+2026-05-24,Oat Milk,9.74
+2026-05-25,Oat Milk,6.47
+2026-05-26,Oat Milk,7.61
+2026-05-27,Oat Milk,7.82
+2026-05-28,Oat Milk,7.93
+2026-05-29,Oat Milk,8.83
+2026-05-30,Oat Milk,10.67
+2026-05-31,Oat Milk,9.27
+2026-06-01,Oat Milk,6.59
+2026-06-02,Oat Milk,7.19
+2026-06-03,Oat Milk,6.43
+2026-06-04,Oat Milk,7.34
+2026-06-05,Oat Milk,9.2
+2026-06-06,Oat Milk,12.63
+2026-06-07,Oat Milk,10.3
+2026-06-08,Oat Milk,6.94
+2026-06-09,Oat Milk,8.08
+2026-06-10,Oat Milk,6.65
+2026-06-11,Oat Milk,9.25
+2026-06-12,Oat Milk,6.72
+2026-06-13,Oat Milk,11.1
+2026-06-14,Oat Milk,9.9
+2026-06-15,Oat Milk,6.09
+2026-06-16,Oat Milk,7.49
+2026-06-17,Oat Milk,7.79
+2026-06-18,Oat Milk,9.24
+2026-06-19,Oat Milk,8.09
+2026-06-20,Oat Milk,7.8
+2026-06-21,Oat Milk,7.85
+2026-06-22,Oat Milk,7.77
+2026-06-23,Oat Milk,6.63
+2026-06-24,Oat Milk,7.54
+2026-06-25,Oat Milk,9.7
+2026-06-26,Oat Milk,7.61
+2026-06-27,Oat Milk,11.52
+2026-06-28,Oat Milk,9.16
+2026-06-29,Oat Milk,7.84
+2026-06-30,Oat Milk,8.15
+2026-07-01,Oat Milk,5.59
+2026-07-02,Oat Milk,5.59
+2026-07-03,Oat Milk,6.02
+2026-07-05,Oat Milk,6.08
+2026-07-06,Oat Milk,5.61
+2026-07-07,Oat Milk,8.39
+2026-07-08,Oat Milk,8.76
+2026-07-09,Oat Milk,7.89
+2026-07-10,Oat Milk,9.99
+2026-07-11,Oat Milk,10.22
+2026-07-12,Oat Milk,10.22
+2026-07-13,Oat Milk,7.29
+2026-07-14,Oat Milk,8.46
+2026-07-15,Oat Milk,7.52
+2026-07-16,Oat Milk,8.54
+2026-07-17,Oat Milk,8.16
+2026-07-18,Oat Milk,11.53
+2026-07-19,Oat Milk,9.4
+2026-07-20,Oat Milk,6.81
+2026-07-21,Oat Milk,7.84
+2026-07-22,Oat Milk,6.11
+2026-07-23,Oat Milk,7.77
+2026-07-24,Oat Milk,9.22
+2026-07-25,Oat Milk,9.25
+2026-07-26,Oat Milk,8.47
+2026-07-27,Oat Milk,7.65
+2026-07-28,Oat Milk,7.61
+2026-07-29,Oat Milk,8.61
+2026-07-30,Oat Milk,9.12
+2026-07-31,Oat Milk,8.73
+2026-08-01,Oat Milk,11.96
+2026-08-02,Oat Milk,9.37
+2026-08-03,Oat Milk,7.07
+2026-08-04,Oat Milk,6.53
+2026-08-05,Oat Milk,8.52
+2026-08-06,Oat Milk,8.18
+2026-08-07,Oat Milk,9.95
+2026-08-08,Oat Milk,10.22
+2026-08-09,Oat Milk,9.4
+2026-08-10,Oat Milk,8.17
+2026-04-13,Espresso Beans,4.49
+2026-04-14,Espresso Beans,4.81
+2026-04-15,Espresso Beans,4.66
+2026-04-16,Espresso Beans,4.13
+2026-04-17,Espresso Beans,6.14
+2026-04-18,Espresso Beans,7.2
+2026-04-19,Espresso Beans,6.99
+2026-04-20,Espresso Beans,4.73
+2026-04-21,Espresso Beans,3.97
+2026-04-22,Espresso Beans,5.79
+2026-04-23,Espresso Beans,4.97
+2026-04-24,Espresso Beans,6.62
+2026-04-25,Espresso Beans,6.9
+2026-04-26,Espresso Beans,6.12
+2026-04-27,Espresso Beans,5.18
+2026-04-28,Espresso Beans,4.66
+2026-04-29,Espresso Beans,4.83
+2026-04-30,Espresso Beans,5.72
+2026-05-01,Espresso Beans,6.29
+2026-05-02,Espresso Beans,6.91
+2026-05-03,Espresso Beans,6.56
+2026-05-04,Espresso Beans,4.0
+2026-05-05,Espresso Beans,4.54
+2026-05-06,Espresso Beans,3.54
+2026-05-07,Espresso Beans,5.82
+2026-05-08,Espresso Beans,5.75
+2026-05-09,Espresso Beans,7.43
+2026-05-10,Espresso Beans,6.38
+2026-05-11,Espresso Beans,5.22
+2026-05-12,Espresso Beans,3.49
+2026-05-13,Espresso Beans,5.34
+2026-05-14,Espresso Beans,5.38
+2026-05-15,Espresso Beans,5.86
+2026-05-16,Espresso Beans,8.1
+2026-05-17,Espresso Beans,6.22
+2026-05-18,Espresso Beans,4.65
+2026-05-19,Espresso Beans,4.47
+2026-05-20,Espresso Beans,4.86
+2026-05-21,Espresso Beans,5.44
+2026-05-22,Espresso Beans,7.08
+2026-05-23,Espresso Beans,8.06
+2026-05-24,Espresso Beans,6.98
+2026-05-25,Espresso Beans,4.37
+2026-05-26,Espresso Beans,4.54
+2026-05-27,Espresso Beans,6.14
+2026-05-28,Espresso Beans,5.82
+2026-05-29,Espresso Beans,6.13
+2026-05-30,Espresso Beans,7.59
+2026-05-31,Espresso Beans,6.92
+2026-06-01,Espresso Beans,4.35
+2026-06-02,Espresso Beans,5.09
+2026-06-03,Espresso Beans,4.92
+2026-06-04,Espresso Beans,5.13
+2026-06-05,Espresso Beans,5.97
+2026-06-06,Espresso Beans,8.25
+2026-06-07,Espresso Beans,8.04
+2026-06-08,Espresso Beans,4.87
+2026-06-09,Espresso Beans,5.55
+2026-06-10,Espresso Beans,4.98
+2026-06-11,Espresso Beans,6.37
+2026-06-12,Espresso Beans,4.76
+2026-06-13,Espresso Beans,7.78
+2026-06-14,Espresso Beans,6.15
+2026-06-15,Espresso Beans,4.24
+2026-06-16,Espresso Beans,5.95
+2026-06-17,Espresso Beans,4.38
+2026-06-18,Espresso Beans,6.28
+2026-06-19,Espresso Beans,5.36
+2026-06-20,Espresso Beans,5.71
+2026-06-21,Espresso Beans,5.84
+2026-06-22,Espresso Beans,4.97
+2026-06-23,Espresso Beans,4.33
+2026-06-24,Espresso Beans,4.74
+2026-06-25,Espresso Beans,6.41
+2026-06-26,Espresso Beans,6.29
+2026-06-27,Espresso Beans,7.76
+2026-06-28,Espresso Beans,6.98
+2026-06-29,Espresso Beans,5.31
+2026-06-30,Espresso Beans,5.92
+2026-07-01,Espresso Beans,3.96
+2026-07-02,Espresso Beans,3.84
+2026-07-03,Espresso Beans,3.7
+2026-07-05,Espresso Beans,4.75
+2026-07-06,Espresso Beans,3.66
+2026-07-07,Espresso Beans,5.44
+2026-07-08,Espresso Beans,5.91
+2026-07-09,Espresso Beans,5.43
+2026-07-10,Espresso Beans,6.22
+2026-07-11,Espresso Beans,7.47
+2026-07-12,Espresso Beans,6.24
+2026-07-13,Espresso Beans,4.66
+2026-07-14,Espresso Beans,6.19
+2026-07-15,Espresso Beans,5.73
+2026-07-16,Espresso Beans,6.36
+2026-07-17,Espresso Beans,5.21
+2026-07-18,Espresso Beans,8.51
+2026-07-19,Espresso Beans,6.6
+2026-07-20,Espresso Beans,4.84
+2026-07-21,Espresso Beans,5.59
+2026-07-22,Espresso Beans,4.78
+2026-07-23,Espresso Beans,4.69
+2026-07-24,Espresso Beans,6.58
+2026-07-25,Espresso Beans,7.42
+2026-07-26,Espresso Beans,5.34
+2026-07-27,Espresso Beans,5.44
+2026-07-28,Espresso Beans,4.69
+2026-07-29,Espresso Beans,6.01
+2026-07-30,Espresso Beans,5.57
+2026-07-31,Espresso Beans,6.46
+2026-08-01,Espresso Beans,7.23
+2026-08-02,Espresso Beans,7.75
+2026-08-03,Espresso Beans,5.54
+2026-08-04,Espresso Beans,4.74
+2026-08-05,Espresso Beans,6.3
+2026-08-06,Espresso Beans,6.07
+2026-08-07,Espresso Beans,7.19
+2026-08-08,Espresso Beans,7.59
+2026-08-09,Espresso Beans,7.05
+2026-08-10,Espresso Beans,5.09
+2026-04-13,Drip Coffee Beans,3.28
+2026-04-14,Drip Coffee Beans,3.89
+2026-04-15,Drip Coffee Beans,3.39
+2026-04-16,Drip Coffee Beans,3.6
+2026-04-17,Drip Coffee Beans,4.28
+2026-04-18,Drip Coffee Beans,5.36
+2026-04-19,Drip Coffee Beans,4.36
+2026-04-20,Drip Coffee Beans,3.48
+2026-04-21,Drip Coffee Beans,2.82
+2026-04-22,Drip Coffee Beans,4.36
+2026-04-23,Drip Coffee Beans,3.19
+2026-04-24,Drip Coffee Beans,5.39
+2026-04-25,Drip Coffee Beans,5.08
+2026-04-26,Drip Coffee Beans,4.99
+2026-04-27,Drip Coffee Beans,3.25
+2026-04-28,Drip Coffee Beans,3.35
+2026-04-29,Drip Coffee Beans,3.34
+2026-04-30,Drip Coffee Beans,3.9
+2026-05-01,Drip Coffee Beans,3.87
+2026-05-02,Drip Coffee Beans,4.96
+2026-05-03,Drip Coffee Beans,4.11
+2026-05-04,Drip Coffee Beans,2.69
+2026-05-05,Drip Coffee Beans,3.56
+2026-05-06,Drip Coffee Beans,2.6
+2026-05-07,Drip Coffee Beans,3.99
+2026-05-08,Drip Coffee Beans,4.16
+2026-05-09,Drip Coffee Beans,5.12
+2026-05-10,Drip Coffee Beans,4.65
+2026-05-11,Drip Coffee Beans,3.2
+2026-05-12,Drip Coffee Beans,2.66
+2026-05-13,Drip Coffee Beans,3.48
+2026-05-14,Drip Coffee Beans,4.12
+2026-05-15,Drip Coffee Beans,4.25
+2026-05-16,Drip Coffee Beans,5.81
+2026-05-17,Drip Coffee Beans,4.31
+2026-05-18,Drip Coffee Beans,3.39
+2026-05-19,Drip Coffee Beans,3.36
+2026-05-20,Drip Coffee Beans,3.79
+2026-05-21,Drip Coffee Beans,3.6
+2026-05-22,Drip Coffee Beans,5.23
+2026-05-23,Drip Coffee Beans,5.85
+2026-05-24,Drip Coffee Beans,4.58
+2026-05-25,Drip Coffee Beans,3.21
+2026-05-26,Drip Coffee Beans,3.45
+2026-05-27,Drip Coffee Beans,4.21
+2026-05-28,Drip Coffee Beans,3.96
+2026-05-29,Drip Coffee Beans,4.44
+2026-05-30,Drip Coffee Beans,5.42
+2026-05-31,Drip Coffee Beans,4.68
+2026-06-01,Drip Coffee Beans,3.47
+2026-06-02,Drip Coffee Beans,3.69
+2026-06-03,Drip Coffee Beans,3.0
+2026-06-04,Drip Coffee Beans,4.08
+2026-06-05,Drip Coffee Beans,4.53
+2026-06-06,Drip Coffee Beans,5.7
+2026-06-07,Drip Coffee Beans,5.48
+2026-06-08,Drip Coffee Beans,3.79
+2026-06-09,Drip Coffee Beans,3.72
+2026-06-10,Drip Coffee Beans,3.43
+2026-06-11,Drip Coffee Beans,4.3
+2026-06-12,Drip Coffee Beans,3.25
+2026-06-13,Drip Coffee Beans,5.26
+2026-06-14,Drip Coffee Beans,5.41
+2026-06-15,Drip Coffee Beans,2.76
+2026-06-16,Drip Coffee Beans,3.6
+2026-06-17,Drip Coffee Beans,4.19
+2026-06-18,Drip Coffee Beans,4.41
+2026-06-19,Drip Coffee Beans,3.87
+2026-06-20,Drip Coffee Beans,4.33
+2026-06-21,Drip Coffee Beans,4.23
+2026-06-22,Drip Coffee Beans,3.62
+2026-06-23,Drip Coffee Beans,3.18
+2026-06-24,Drip Coffee Beans,3.17
+2026-06-25,Drip Coffee Beans,4.91
+2026-06-26,Drip Coffee Beans,4.45
+2026-06-27,Drip Coffee Beans,5.82
+2026-06-28,Drip Coffee Beans,4.9
+2026-06-29,Drip Coffee Beans,3.94
+2026-06-30,Drip Coffee Beans,4.06
+2026-07-01,Drip Coffee Beans,2.69
+2026-07-02,Drip Coffee Beans,2.58
+2026-07-03,Drip Coffee Beans,2.95
+2026-07-05,Drip Coffee Beans,3.52
+2026-07-06,Drip Coffee Beans,2.63
+2026-07-07,Drip Coffee Beans,4.14
+2026-07-08,Drip Coffee Beans,3.83
+2026-07-09,Drip Coffee Beans,3.61
+2026-07-10,Drip Coffee Beans,4.58
+2026-07-11,Drip Coffee Beans,5.18
+2026-07-12,Drip Coffee Beans,4.54
+2026-07-13,Drip Coffee Beans,3.9
+2026-07-14,Drip Coffee Beans,3.54
+2026-07-15,Drip Coffee Beans,4.38
+2026-07-16,Drip Coffee Beans,4.05
+2026-07-17,Drip Coffee Beans,4.26
+2026-07-18,Drip Coffee Beans,5.75
+2026-07-19,Drip Coffee Beans,4.74
+2026-07-20,Drip Coffee Beans,3.47
+2026-07-21,Drip Coffee Beans,3.68
+2026-07-22,Drip Coffee Beans,3.16
+2026-07-23,Drip Coffee Beans,4.08
+2026-07-24,Drip Coffee Beans,4.55
+2026-07-25,Drip Coffee Beans,4.86
+2026-07-26,Drip Coffee Beans,3.91
+2026-07-27,Drip Coffee Beans,4.1
+2026-07-28,Drip Coffee Beans,3.55
+2026-07-29,Drip Coffee Beans,4.16
+2026-07-30,Drip Coffee Beans,4.16
+2026-07-31,Drip Coffee Beans,4.85
+2026-08-01,Drip Coffee Beans,5.53
+2026-08-02,Drip Coffee Beans,5.09
+2026-08-03,Drip Coffee Beans,3.71
+2026-08-04,Drip Coffee Beans,3.26
+2026-08-05,Drip Coffee Beans,4.09
+2026-08-06,Drip Coffee Beans,4.29
+2026-08-07,Drip Coffee Beans,5.64
+2026-08-08,Drip Coffee Beans,5.07
+2026-08-09,Drip Coffee Beans,4.49
+2026-08-10,Drip Coffee Beans,3.92
+2026-04-13,12oz Cups,150.0
+2026-04-14,12oz Cups,167.0
+2026-04-15,12oz Cups,158.0
+2026-04-16,12oz Cups,159.0
+2026-04-17,12oz Cups,229.0
+2026-04-18,12oz Cups,246.0
+2026-04-19,12oz Cups,221.0
+2026-04-20,12oz Cups,170.0
+2026-04-21,12oz Cups,142.0
+2026-04-22,12oz Cups,196.0
+2026-04-23,12oz Cups,152.0
+2026-04-24,12oz Cups,215.0
+2026-04-25,12oz Cups,255.0
+2026-04-26,12oz Cups,227.0
+2026-04-27,12oz Cups,161.0
+2026-04-28,12oz Cups,174.0
+2026-04-29,12oz Cups,164.0
+2026-04-30,12oz Cups,186.0
+2026-05-01,12oz Cups,209.0
+2026-05-02,12oz Cups,216.0
+2026-05-03,12oz Cups,213.0
+2026-05-04,12oz Cups,142.0
+2026-05-05,12oz Cups,156.0
+2026-05-06,12oz Cups,112.0
+2026-05-07,12oz Cups,187.0
+2026-05-08,12oz Cups,169.0
+2026-05-09,12oz Cups,240.0
+2026-05-10,12oz Cups,197.0
+2026-05-11,12oz Cups,171.0
+2026-05-12,12oz Cups,123.0
+2026-05-13,12oz Cups,150.0
+2026-05-14,12oz Cups,173.0
+2026-05-15,12oz Cups,210.0
+2026-05-16,12oz Cups,274.0
+2026-05-17,12oz Cups,201.0
+2026-05-18,12oz Cups,159.0
+2026-05-19,12oz Cups,146.0
+2026-05-20,12oz Cups,165.0
+2026-05-21,12oz Cups,178.0
+2026-05-22,12oz Cups,199.0
+2026-05-23,12oz Cups,234.0
+2026-05-24,12oz Cups,204.0
+2026-05-25,12oz Cups,134.0
+2026-05-26,12oz Cups,176.0
+2026-05-27,12oz Cups,185.0
+2026-05-28,12oz Cups,181.0
+2026-05-29,12oz Cups,202.0
+2026-05-30,12oz Cups,248.0
+2026-05-31,12oz Cups,219.0
+2026-06-01,12oz Cups,157.0
+2026-06-02,12oz Cups,156.0
+2026-06-03,12oz Cups,150.0
+2026-06-04,12oz Cups,191.0
+2026-06-05,12oz Cups,202.0
+2026-06-06,12oz Cups,276.0
+2026-06-07,12oz Cups,229.0
+2026-06-08,12oz Cups,165.0
+2026-06-09,12oz Cups,179.0
+2026-06-10,12oz Cups,175.0
+2026-06-11,12oz Cups,223.0
+2026-06-12,12oz Cups,160.0
+2026-06-13,12oz Cups,262.0
+2026-06-14,12oz Cups,218.0
+2026-06-15,12oz Cups,149.0
+2026-06-16,12oz Cups,175.0
+2026-06-17,12oz Cups,177.0
+2026-06-18,12oz Cups,208.0
+2026-06-19,12oz Cups,192.0
+2026-06-20,12oz Cups,195.0
+2026-06-21,12oz Cups,194.0
+2026-06-22,12oz Cups,168.0
+2026-06-23,12oz Cups,147.0
+2026-06-24,12oz Cups,155.0
+2026-06-25,12oz Cups,244.0
+2026-06-26,12oz Cups,187.0
+2026-06-27,12oz Cups,258.0
+2026-06-28,12oz Cups,230.0
+2026-06-29,12oz Cups,160.0
+2026-06-30,12oz Cups,209.0
+2026-07-01,12oz Cups,110.0
+2026-07-02,12oz Cups,131.0
+2026-07-03,12oz Cups,150.0
+2026-07-05,12oz Cups,157.0
+2026-07-06,12oz Cups,124.0
+2026-07-07,12oz Cups,198.0
+2026-07-08,12oz Cups,195.0
+2026-07-09,12oz Cups,176.0
+2026-07-10,12oz Cups,211.0
+2026-07-11,12oz Cups,269.0
+2026-07-12,12oz Cups,222.0
+2026-07-13,12oz Cups,195.0
+2026-07-14,12oz Cups,152.0
+2026-07-15,12oz Cups,174.0
+2026-07-16,12oz Cups,198.0
+2026-07-17,12oz Cups,215.0
+2026-07-18,12oz Cups,285.0
+2026-07-19,12oz Cups,224.0
+2026-07-20,12oz Cups,148.0
+2026-07-21,12oz Cups,171.0
+2026-07-22,12oz Cups,153.0
+2026-07-23,12oz Cups,181.0
+2026-07-24,12oz Cups,206.0
+2026-07-25,12oz Cups,233.0
+2026-07-26,12oz Cups,189.0
+2026-07-27,12oz Cups,183.0
+2026-07-28,12oz Cups,172.0
+2026-07-29,12oz Cups,187.0
+2026-07-30,12oz Cups,178.0
+2026-07-31,12oz Cups,221.0
+2026-08-01,12oz Cups,262.0
+2026-08-02,12oz Cups,240.0
+2026-08-03,12oz Cups,184.0
+2026-08-04,12oz Cups,166.0
+2026-08-05,12oz Cups,176.0
+2026-08-06,12oz Cups,192.0
+2026-08-07,12oz Cups,245.0
+2026-08-08,12oz Cups,246.0
+2026-08-09,12oz Cups,241.0
+2026-08-10,12oz Cups,186.0
+2026-04-13,16oz Cups,101.0
+2026-04-14,16oz Cups,121.0
+2026-04-15,16oz Cups,120.0
+2026-04-16,16oz Cups,127.0
+2026-04-17,16oz Cups,175.0
+2026-04-18,16oz Cups,191.0
+2026-04-19,16oz Cups,155.0
+2026-04-20,16oz Cups,116.0
+2026-04-21,16oz Cups,91.0
+2026-04-22,16oz Cups,144.0
+2026-04-23,16oz Cups,129.0
+2026-04-24,16oz Cups,156.0
+2026-04-25,16oz Cups,176.0
+2026-04-26,16oz Cups,158.0
+2026-04-27,16oz Cups,110.0
+2026-04-28,16oz Cups,116.0
+2026-04-29,16oz Cups,125.0
+2026-04-30,16oz Cups,143.0
+2026-05-01,16oz Cups,158.0
+2026-05-02,16oz Cups,171.0
+2026-05-03,16oz Cups,149.0
+2026-05-04,16oz Cups,105.0
+2026-05-05,16oz Cups,113.0
+2026-05-06,16oz Cups,93.0
+2026-05-07,16oz Cups,146.0
+2026-05-08,16oz Cups,139.0
+2026-05-09,16oz Cups,187.0
+2026-05-10,16oz Cups,157.0
+2026-05-11,16oz Cups,126.0
+2026-05-12,16oz Cups,92.0
+2026-05-13,16oz Cups,126.0
+2026-05-14,16oz Cups,121.0
+2026-05-15,16oz Cups,147.0
+2026-05-16,16oz Cups,207.0
+2026-05-17,16oz Cups,148.0
+2026-05-18,16oz Cups,103.0
+2026-05-19,16oz Cups,123.0
+2026-05-20,16oz Cups,128.0
+2026-05-21,16oz Cups,119.0
+2026-05-22,16oz Cups,140.0
+2026-05-23,16oz Cups,178.0
+2026-05-24,16oz Cups,187.0
+2026-05-25,16oz Cups,98.0
+2026-05-26,16oz Cups,122.0
+2026-05-27,16oz Cups,136.0
+2026-05-28,16oz Cups,135.0
+2026-05-29,16oz Cups,153.0
+2026-05-30,16oz Cups,183.0
+2026-05-31,16oz Cups,143.0
+2026-06-01,16oz Cups,106.0
+2026-06-02,16oz Cups,114.0
+2026-06-03,16oz Cups,119.0
+2026-06-04,16oz Cups,140.0
+2026-06-05,16oz Cups,151.0
+2026-06-06,16oz Cups,194.0
+2026-06-07,16oz Cups,180.0
+2026-06-08,16oz Cups,122.0
+2026-06-09,16oz Cups,146.0
+2026-06-10,16oz Cups,122.0
+2026-06-11,16oz Cups,158.0
+2026-06-12,16oz Cups,124.0
+2026-06-13,16oz Cups,181.0
+2026-06-14,16oz Cups,160.0
+2026-06-15,16oz Cups,98.0
+2026-06-16,16oz Cups,126.0
+2026-06-17,16oz Cups,144.0
+2026-06-18,16oz Cups,143.0
+2026-06-19,16oz Cups,140.0
+2026-06-20,16oz Cups,139.0
+2026-06-21,16oz Cups,153.0
+2026-06-22,16oz Cups,99.0
+2026-06-23,16oz Cups,116.0
+2026-06-24,16oz Cups,103.0
+2026-06-25,16oz Cups,173.0
+2026-06-26,16oz Cups,151.0
+2026-06-27,16oz Cups,186.0
+2026-06-28,16oz Cups,163.0
+2026-06-29,16oz Cups,129.0
+2026-06-30,16oz Cups,153.0
+2026-07-01,16oz Cups,105.0
+2026-07-02,16oz Cups,90.0
+2026-07-03,16oz Cups,103.0
+2026-07-05,16oz Cups,109.0
+2026-07-06,16oz Cups,81.0
+2026-07-07,16oz Cups,142.0
+2026-07-08,16oz Cups,138.0
+2026-07-09,16oz Cups,133.0
+2026-07-10,16oz Cups,163.0
+2026-07-11,16oz Cups,173.0
+2026-07-12,16oz Cups,168.0
+2026-07-13,16oz Cups,123.0
+2026-07-14,16oz Cups,144.0
+2026-07-15,16oz Cups,145.0
+2026-07-16,16oz Cups,158.0
+2026-07-17,16oz Cups,163.0
+2026-07-18,16oz Cups,207.0
+2026-07-19,16oz Cups,166.0
+2026-07-20,16oz Cups,111.0
+2026-07-21,16oz Cups,135.0
+2026-07-22,16oz Cups,107.0
+2026-07-23,16oz Cups,133.0
+2026-07-24,16oz Cups,155.0
+2026-07-25,16oz Cups,172.0
+2026-07-26,16oz Cups,133.0
+2026-07-27,16oz Cups,135.0
+2026-07-28,16oz Cups,122.0
+2026-07-29,16oz Cups,136.0
+2026-07-30,16oz Cups,137.0
+2026-07-31,16oz Cups,152.0
+2026-08-01,16oz Cups,178.0
+2026-08-02,16oz Cups,185.0
+2026-08-03,16oz Cups,121.0
+2026-08-04,16oz Cups,117.0
+2026-08-05,16oz Cups,123.0
+2026-08-06,16oz Cups,136.0
+2026-08-07,16oz Cups,202.0
+2026-08-08,16oz Cups,185.0
+2026-08-09,16oz Cups,164.0
+2026-08-10,16oz Cups,120.0
+2026-04-13,Cup Lids,245.0
+2026-04-14,Cup Lids,278.0
+2026-04-15,Cup Lids,270.0
+2026-04-16,Cup Lids,270.0
+2026-04-17,Cup Lids,322.0
+2026-04-18,Cup Lids,437.0
+2026-04-19,Cup Lids,339.0
+2026-04-20,Cup Lids,241.0
+2026-04-21,Cup Lids,227.0
+2026-04-22,Cup Lids,325.0
+2026-04-23,Cup Lids,243.0
+2026-04-24,Cup Lids,437.0
+2026-04-25,Cup Lids,416.0
+2026-04-26,Cup Lids,359.0
+2026-04-27,Cup Lids,256.0
+2026-04-28,Cup Lids,235.0
+2026-04-29,Cup Lids,323.0
+2026-04-30,Cup Lids,330.0
+2026-05-01,Cup Lids,364.0
+2026-05-02,Cup Lids,363.0
+2026-05-03,Cup Lids,346.0
+2026-05-04,Cup Lids,244.0
+2026-05-05,Cup Lids,300.0
+2026-05-06,Cup Lids,195.0
+2026-05-07,Cup Lids,321.0
+2026-05-08,Cup Lids,321.0
+2026-05-09,Cup Lids,423.0
+2026-05-10,Cup Lids,379.0
+2026-05-11,Cup Lids,262.0
+2026-05-12,Cup Lids,171.0
+2026-05-13,Cup Lids,293.0
+2026-05-14,Cup Lids,296.0
+2026-05-15,Cup Lids,383.0
+2026-05-16,Cup Lids,420.0
+2026-05-17,Cup Lids,380.0
+2026-05-18,Cup Lids,253.0
+2026-05-19,Cup Lids,251.0
+2026-05-20,Cup Lids,284.0
+2026-05-21,Cup Lids,292.0
+2026-05-22,Cup Lids,375.0
+2026-05-23,Cup Lids,404.0
+2026-05-24,Cup Lids,378.0
+2026-05-25,Cup Lids,241.0
+2026-05-26,Cup Lids,312.0
+2026-05-27,Cup Lids,235.0
+2026-05-28,Cup Lids,327.0
+2026-05-29,Cup Lids,353.0
+2026-05-30,Cup Lids,452.0
+2026-05-31,Cup Lids,360.0
+2026-06-01,Cup Lids,247.0
+2026-06-02,Cup Lids,289.0
+2026-06-03,Cup Lids,246.0
+2026-06-04,Cup Lids,277.0
+2026-06-05,Cup Lids,333.0
+2026-06-06,Cup Lids,443.0
+2026-06-07,Cup Lids,374.0
+2026-06-08,Cup Lids,285.0
+2026-06-09,Cup Lids,328.0
+2026-06-10,Cup Lids,300.0
+2026-06-11,Cup Lids,318.0
+2026-06-12,Cup Lids,279.0
+2026-06-13,Cup Lids,400.0
+2026-06-14,Cup Lids,404.0
+2026-06-15,Cup Lids,219.0
+2026-06-16,Cup Lids,309.0
+2026-06-17,Cup Lids,294.0
+2026-06-18,Cup Lids,368.0
+2026-06-19,Cup Lids,326.0
+2026-06-20,Cup Lids,328.0
+2026-06-21,Cup Lids,359.0
+2026-06-22,Cup Lids,256.0
+2026-06-23,Cup Lids,253.0
+2026-06-24,Cup Lids,302.0
+2026-06-25,Cup Lids,395.0
+2026-06-26,Cup Lids,331.0
+2026-06-27,Cup Lids,413.0
+2026-06-28,Cup Lids,348.0
+2026-06-29,Cup Lids,306.0
+2026-06-30,Cup Lids,339.0
+2026-07-01,Cup Lids,213.0
+2026-07-02,Cup Lids,219.0
+2026-07-03,Cup Lids,225.0
+2026-07-05,Cup Lids,260.0
+2026-07-06,Cup Lids,228.0
+2026-07-07,Cup Lids,295.0
+2026-07-08,Cup Lids,309.0
+2026-07-09,Cup Lids,284.0
+2026-07-10,Cup Lids,354.0
+2026-07-11,Cup Lids,446.0
+2026-07-12,Cup Lids,342.0
+2026-07-13,Cup Lids,263.0
+2026-07-14,Cup Lids,318.0
+2026-07-15,Cup Lids,305.0
+2026-07-16,Cup Lids,301.0
+2026-07-17,Cup Lids,360.0
+2026-07-18,Cup Lids,475.0
+2026-07-19,Cup Lids,359.0
+2026-07-20,Cup Lids,257.0
+2026-07-21,Cup Lids,318.0
+2026-07-22,Cup Lids,253.0
+2026-07-23,Cup Lids,318.0
+2026-07-24,Cup Lids,337.0
+2026-07-25,Cup Lids,363.0
+2026-07-26,Cup Lids,309.0
+2026-07-27,Cup Lids,316.0
+2026-07-28,Cup Lids,297.0
+2026-07-29,Cup Lids,296.0
+2026-07-30,Cup Lids,311.0
+2026-07-31,Cup Lids,382.0
+2026-08-01,Cup Lids,373.0
+2026-08-02,Cup Lids,396.0
+2026-08-03,Cup Lids,262.0
+2026-08-04,Cup Lids,259.0
+2026-08-05,Cup Lids,345.0
+2026-08-06,Cup Lids,315.0
+2026-08-07,Cup Lids,415.0
+2026-08-08,Cup Lids,396.0
+2026-08-09,Cup Lids,366.0
+2026-08-10,Cup Lids,331.0
+2026-04-13,Vanilla Syrup,2.36
+2026-04-14,Vanilla Syrup,2.58
+2026-04-15,Vanilla Syrup,2.44
+2026-04-16,Vanilla Syrup,2.42
+2026-04-17,Vanilla Syrup,3.2
+2026-04-18,Vanilla Syrup,3.71
+2026-04-19,Vanilla Syrup,3.42
+2026-04-20,Vanilla Syrup,2.34
+2026-04-21,Vanilla Syrup,2.08
+2026-04-22,Vanilla Syrup,3.44
+2026-04-23,Vanilla Syrup,2.42
+2026-04-24,Vanilla Syrup,3.59
+2026-04-25,Vanilla Syrup,3.96
+2026-04-26,Vanilla Syrup,3.22
+2026-04-27,Vanilla Syrup,2.59
+2026-04-28,Vanilla Syrup,2.61
+2026-04-29,Vanilla Syrup,2.46
+2026-04-30,Vanilla Syrup,2.52
+2026-05-01,Vanilla Syrup,3.15
+2026-05-02,Vanilla Syrup,3.36
+2026-05-03,Vanilla Syrup,3.55
+2026-05-04,Vanilla Syrup,2.06
+2026-05-05,Vanilla Syrup,2.61
+2026-05-06,Vanilla Syrup,1.72
+2026-05-07,Vanilla Syrup,2.89
+2026-05-08,Vanilla Syrup,2.71
+2026-05-09,Vanilla Syrup,3.44
+2026-05-10,Vanilla Syrup,3.26
+2026-05-11,Vanilla Syrup,2.35
+2026-05-12,Vanilla Syrup,1.87
+2026-05-13,Vanilla Syrup,2.29
+2026-05-14,Vanilla Syrup,2.53
+2026-05-15,Vanilla Syrup,3.13
+2026-05-16,Vanilla Syrup,4.18
+2026-05-17,Vanilla Syrup,3.53
+2026-05-18,Vanilla Syrup,2.41
+2026-05-19,Vanilla Syrup,2.37
+2026-05-20,Vanilla Syrup,2.8
+2026-05-21,Vanilla Syrup,2.97
+2026-05-22,Vanilla Syrup,3.3
+2026-05-23,Vanilla Syrup,3.85
+2026-05-24,Vanilla Syrup,3.46
+2026-05-25,Vanilla Syrup,2.19
+2026-05-26,Vanilla Syrup,2.83
+2026-05-27,Vanilla Syrup,2.67
+2026-05-28,Vanilla Syrup,2.74
+2026-05-29,Vanilla Syrup,3.32
+2026-05-30,Vanilla Syrup,3.88
+2026-05-31,Vanilla Syrup,3.5
+2026-06-01,Vanilla Syrup,2.26
+2026-06-02,Vanilla Syrup,2.53
+2026-06-03,Vanilla Syrup,2.54
+2026-06-04,Vanilla Syrup,2.7
+2026-06-05,Vanilla Syrup,2.99
+2026-06-06,Vanilla Syrup,3.86
+2026-06-07,Vanilla Syrup,3.91
+2026-06-08,Vanilla Syrup,2.65
+2026-06-09,Vanilla Syrup,2.9
+2026-06-10,Vanilla Syrup,2.46
+2026-06-11,Vanilla Syrup,3.15
+2026-06-12,Vanilla Syrup,2.41
+2026-06-13,Vanilla Syrup,3.83
+2026-06-14,Vanilla Syrup,3.22
+2026-06-15,Vanilla Syrup,2.11
+2026-06-16,Vanilla Syrup,2.77
+2026-06-17,Vanilla Syrup,2.73
+2026-06-18,Vanilla Syrup,3.55
+2026-06-19,Vanilla Syrup,2.8
+2026-06-20,Vanilla Syrup,2.72
+2026-06-21,Vanilla Syrup,3.13
+2026-06-22,Vanilla Syrup,2.61
+2026-06-23,Vanilla Syrup,2.48
+2026-06-24,Vanilla Syrup,2.72
+2026-06-25,Vanilla Syrup,3.59
+2026-06-26,Vanilla Syrup,3.11
+2026-06-27,Vanilla Syrup,3.76
+2026-06-28,Vanilla Syrup,3.17
+2026-06-29,Vanilla Syrup,2.77
+2026-06-30,Vanilla Syrup,3.02
+2026-07-01,Vanilla Syrup,2.18
+2026-07-02,Vanilla Syrup,1.83
+2026-07-03,Vanilla Syrup,2.04
+2026-07-05,Vanilla Syrup,2.41
+2026-07-06,Vanilla Syrup,1.71
+2026-07-07,Vanilla Syrup,2.63
+2026-07-08,Vanilla Syrup,2.61
+2026-07-09,Vanilla Syrup,2.52
+2026-07-10,Vanilla Syrup,3.31
+2026-07-11,Vanilla Syrup,3.65
+2026-07-12,Vanilla Syrup,3.62
+2026-07-13,Vanilla Syrup,2.48
+2026-07-14,Vanilla Syrup,2.83
+2026-07-15,Vanilla Syrup,2.96
+2026-07-16,Vanilla Syrup,3.22
+2026-07-17,Vanilla Syrup,2.75
+2026-07-18,Vanilla Syrup,4.23
+2026-07-19,Vanilla Syrup,3.19
+2026-07-20,Vanilla Syrup,2.8
+2026-07-21,Vanilla Syrup,2.96
+2026-07-22,Vanilla Syrup,2.27
+2026-07-23,Vanilla Syrup,2.82
+2026-07-24,Vanilla Syrup,3.47
+2026-07-25,Vanilla Syrup,3.83
+2026-07-26,Vanilla Syrup,3.13
+2026-07-27,Vanilla Syrup,3.19
+2026-07-28,Vanilla Syrup,2.67
+2026-07-29,Vanilla Syrup,3.16
+2026-07-30,Vanilla Syrup,3.12
+2026-07-31,Vanilla Syrup,3.21
+2026-08-01,Vanilla Syrup,3.49
+2026-08-02,Vanilla Syrup,4.1
+2026-08-03,Vanilla Syrup,2.72
+2026-08-04,Vanilla Syrup,2.51
+2026-08-05,Vanilla Syrup,3.08
+2026-08-06,Vanilla Syrup,2.93
+2026-08-07,Vanilla Syrup,3.93
+2026-08-08,Vanilla Syrup,3.72
+2026-08-09,Vanilla Syrup,3.33
+2026-08-10,Vanilla Syrup,2.78
+2026-04-13,Caramel Syrup,1.62
+2026-04-14,Caramel Syrup,1.97
+2026-04-15,Caramel Syrup,1.88
+2026-04-16,Caramel Syrup,1.71
+2026-04-17,Caramel Syrup,2.5
+2026-04-18,Caramel Syrup,2.99
+2026-04-19,Caramel Syrup,2.7
+2026-04-20,Caramel Syrup,1.88
+2026-04-21,Caramel Syrup,1.5
+2026-04-22,Caramel Syrup,2.09
+2026-04-23,Caramel Syrup,1.64
+2026-04-24,Caramel Syrup,2.61
+2026-04-25,Caramel Syrup,2.59
+2026-04-26,Caramel Syrup,2.38
+2026-04-27,Caramel Syrup,1.93
+2026-04-28,Caramel Syrup,1.86
+2026-04-29,Caramel Syrup,1.89
+2026-04-30,Caramel Syrup,1.98
+2026-05-01,Caramel Syrup,2.11
+2026-05-02,Caramel Syrup,2.5
+2026-05-03,Caramel Syrup,2.65
+2026-05-04,Caramel Syrup,1.62
+2026-05-05,Caramel Syrup,1.86
+2026-05-06,Caramel Syrup,1.42
+2026-05-07,Caramel Syrup,1.98
+2026-05-08,Caramel Syrup,2.19
+2026-05-09,Caramel Syrup,2.85
+2026-05-10,Caramel Syrup,2.66
+2026-05-11,Caramel Syrup,1.71
+2026-05-12,Caramel Syrup,1.21
+2026-05-13,Caramel Syrup,2.11
+2026-05-14,Caramel Syrup,1.95
+2026-05-15,Caramel Syrup,2.6
+2026-05-16,Caramel Syrup,3.03
+2026-05-17,Caramel Syrup,2.21
+2026-05-18,Caramel Syrup,1.79
+2026-05-19,Caramel Syrup,1.88
+2026-05-20,Caramel Syrup,1.94
+2026-05-21,Caramel Syrup,2.11
+2026-05-22,Caramel Syrup,2.7
+2026-05-23,Caramel Syrup,2.92
+2026-05-24,Caramel Syrup,2.65
+2026-05-25,Caramel Syrup,1.47
+2026-05-26,Caramel Syrup,1.89
+2026-05-27,Caramel Syrup,1.98
+2026-05-28,Caramel Syrup,2.05
+2026-05-29,Caramel Syrup,2.24
+2026-05-30,Caramel Syrup,3.1
+2026-05-31,Caramel Syrup,2.53
+2026-06-01,Caramel Syrup,1.66
+2026-06-02,Caramel Syrup,2.13
+2026-06-03,Caramel Syrup,2.0
+2026-06-04,Caramel Syrup,1.93
+2026-06-05,Caramel Syrup,2.66
+2026-06-06,Caramel Syrup,3.4
+2026-06-07,Caramel Syrup,2.78
+2026-06-08,Caramel Syrup,1.63
+2026-06-09,Caramel Syrup,1.87
+2026-06-10,Caramel Syrup,1.99
+2026-06-11,Caramel Syrup,2.36
+2026-06-12,Caramel Syrup,1.87
+2026-06-13,Caramel Syrup,2.64
+2026-06-14,Caramel Syrup,2.72
+2026-06-15,Caramel Syrup,1.65
+2026-06-16,Caramel Syrup,2.07
+2026-06-17,Caramel Syrup,2.17
+2026-06-18,Caramel Syrup,2.42
+2026-06-19,Caramel Syrup,2.34
+2026-06-20,Caramel Syrup,2.1
+2026-06-21,Caramel Syrup,2.2
+2026-06-22,Caramel Syrup,1.95
+2026-06-23,Caramel Syrup,1.62
+2026-06-24,Caramel Syrup,1.85
+2026-06-25,Caramel Syrup,2.5
+2026-06-26,Caramel Syrup,2.22
+2026-06-27,Caramel Syrup,3.05
+2026-06-28,Caramel Syrup,2.53
+2026-06-29,Caramel Syrup,2.02
+2026-06-30,Caramel Syrup,2.38
+2026-07-01,Caramel Syrup,1.42
+2026-07-02,Caramel Syrup,1.56
+2026-07-03,Caramel Syrup,1.55
+2026-07-05,Caramel Syrup,1.76
+2026-07-06,Caramel Syrup,1.45
+2026-07-07,Caramel Syrup,2.1
+2026-07-08,Caramel Syrup,2.11
+2026-07-09,Caramel Syrup,1.94
+2026-07-10,Caramel Syrup,2.65
+2026-07-11,Caramel Syrup,2.87
+2026-07-12,Caramel Syrup,2.6
+2026-07-13,Caramel Syrup,2.01
+2026-07-14,Caramel Syrup,1.98
+2026-07-15,Caramel Syrup,2.0
+2026-07-16,Caramel Syrup,2.42
+2026-07-17,Caramel Syrup,2.37
+2026-07-18,Caramel Syrup,3.19
+2026-07-19,Caramel Syrup,2.3
+2026-07-20,Caramel Syrup,1.82
+2026-07-21,Caramel Syrup,2.07
+2026-07-22,Caramel Syrup,1.72
+2026-07-23,Caramel Syrup,2.2
+2026-07-24,Caramel Syrup,2.48
+2026-07-25,Caramel Syrup,2.59
+2026-07-26,Caramel Syrup,1.96
+2026-07-27,Caramel Syrup,2.23
+2026-07-28,Caramel Syrup,1.89
+2026-07-29,Caramel Syrup,2.26
+2026-07-30,Caramel Syrup,2.07
+2026-07-31,Caramel Syrup,2.34
+2026-08-01,Caramel Syrup,2.89
+2026-08-02,Caramel Syrup,2.96
+2026-08-03,Caramel Syrup,2.01
+2026-08-04,Caramel Syrup,1.86
+2026-08-05,Caramel Syrup,2.42
+2026-08-06,Caramel Syrup,2.25
+2026-08-07,Caramel Syrup,3.21
+2026-08-08,Caramel Syrup,2.96
+2026-08-09,Caramel Syrup,2.35
+2026-08-10,Caramel Syrup,2.08
+2026-04-13,Croissants,30.0
+2026-04-14,Croissants,39.0
+2026-04-15,Croissants,32.0
+2026-04-16,Croissants,33.0
+2026-04-17,Croissants,46.0
+2026-04-18,Croissants,51.0
+2026-04-19,Croissants,42.0
+2026-04-20,Croissants,30.0
+2026-04-21,Croissants,28.0
+2026-04-22,Croissants,42.0
+2026-04-23,Croissants,30.0
+2026-04-24,Croissants,45.0
+2026-04-25,Croissants,46.0
+2026-04-26,Croissants,43.0
+2026-04-27,Croissants,34.0
+2026-04-28,Croissants,30.0
+2026-04-29,Croissants,34.0
+2026-04-30,Croissants,37.0
+2026-05-01,Croissants,45.0
+2026-05-02,Croissants,49.0
+2026-05-03,Croissants,46.0
+2026-05-04,Croissants,27.0
+2026-05-05,Croissants,35.0
+2026-05-06,Croissants,24.0
+2026-05-07,Croissants,39.0
+2026-05-08,Croissants,35.0
+2026-05-09,Croissants,47.0
+2026-05-10,Croissants,45.0
+2026-05-11,Croissants,32.0
+2026-05-12,Croissants,24.0
+2026-05-13,Croissants,34.0
+2026-05-14,Croissants,34.0
+2026-05-15,Croissants,45.0
+2026-05-16,Croissants,56.0
+2026-05-17,Croissants,40.0
+2026-05-18,Croissants,30.0
+2026-05-19,Croissants,30.0
+2026-05-20,Croissants,35.0
+2026-05-21,Croissants,33.0
+2026-05-22,Croissants,39.0
+2026-05-23,Croissants,54.0
+2026-05-24,Croissants,45.0
+2026-05-25,Croissants,31.0
+2026-05-26,Croissants,35.0
+2026-05-27,Croissants,38.0
+2026-05-28,Croissants,39.0
+2026-05-29,Croissants,44.0
+2026-05-30,Croissants,54.0
+2026-05-31,Croissants,45.0
+2026-06-01,Croissants,31.0
+2026-06-02,Croissants,33.0
+2026-06-03,Croissants,30.0
+2026-06-04,Croissants,36.0
+2026-06-05,Croissants,43.0
+2026-06-06,Croissants,57.0
+2026-06-07,Croissants,52.0
+2026-06-08,Croissants,33.0
+2026-06-09,Croissants,37.0
+2026-06-10,Croissants,35.0
+2026-06-11,Croissants,45.0
+2026-06-12,Croissants,30.0
+2026-06-13,Croissants,56.0
+2026-06-14,Croissants,50.0
+2026-06-15,Croissants,27.0
+2026-06-16,Croissants,36.0
+2026-06-17,Croissants,38.0
+2026-06-18,Croissants,41.0
+2026-06-19,Croissants,37.0
+2026-06-20,Croissants,38.0
+2026-06-21,Croissants,40.0
+2026-06-22,Croissants,36.0
+2026-06-23,Croissants,32.0
+2026-06-24,Croissants,34.0
+2026-06-25,Croissants,44.0
+2026-06-26,Croissants,40.0
+2026-06-27,Croissants,57.0
+2026-06-28,Croissants,43.0
+2026-06-29,Croissants,35.0
+2026-06-30,Croissants,37.0
+2026-07-01,Croissants,24.0
+2026-07-02,Croissants,28.0
+2026-07-03,Croissants,30.0
+2026-07-05,Croissants,32.0
+2026-07-06,Croissants,25.0
+2026-07-07,Croissants,35.0
+2026-07-08,Croissants,38.0
+2026-07-09,Croissants,34.0
+2026-07-10,Croissants,44.0
+2026-07-11,Croissants,50.0
+2026-07-12,Croissants,44.0
+2026-07-13,Croissants,36.0
+2026-07-14,Croissants,38.0
+2026-07-15,Croissants,42.0
+2026-07-16,Croissants,44.0
+2026-07-17,Croissants,43.0
+2026-07-18,Croissants,52.0
+2026-07-19,Croissants,43.0
+2026-07-20,Croissants,35.0
+2026-07-21,Croissants,35.0
+2026-07-22,Croissants,33.0
+2026-07-23,Croissants,38.0
+2026-07-24,Croissants,44.0
+2026-07-25,Croissants,53.0
+2026-07-26,Croissants,39.0
+2026-07-27,Croissants,40.0
+2026-07-28,Croissants,33.0
+2026-07-29,Croissants,39.0
+2026-07-30,Croissants,35.0
+2026-07-31,Croissants,46.0
+2026-08-01,Croissants,51.0
+2026-08-02,Croissants,54.0
+2026-08-03,Croissants,35.0
+2026-08-04,Croissants,39.0
+2026-08-05,Croissants,37.0
+2026-08-06,Croissants,40.0
+2026-08-07,Croissants,51.0
+2026-08-08,Croissants,50.0
+2026-08-09,Croissants,47.0
+2026-08-10,Croissants,38.0
+2026-04-13,Matcha Powder,0.75
+2026-04-14,Matcha Powder,0.89
+2026-04-15,Matcha Powder,0.75
+2026-04-16,Matcha Powder,0.82
+2026-04-17,Matcha Powder,1.04
+2026-04-18,Matcha Powder,1.19
+2026-04-19,Matcha Powder,1.07
+2026-04-20,Matcha Powder,0.73
+2026-04-21,Matcha Powder,0.6
+2026-04-22,Matcha Powder,0.99
+2026-04-23,Matcha Powder,0.72
+2026-04-24,Matcha Powder,1.15
+2026-04-25,Matcha Powder,1.18
+2026-04-26,Matcha Powder,1.1
+2026-04-27,Matcha Powder,0.76
+2026-04-28,Matcha Powder,0.87
+2026-04-29,Matcha Powder,0.8
+2026-04-30,Matcha Powder,0.87
+2026-05-01,Matcha Powder,0.96
+2026-05-02,Matcha Powder,1.13
+2026-05-03,Matcha Powder,1.15
+2026-05-04,Matcha Powder,0.63
+2026-05-05,Matcha Powder,0.82
+2026-05-06,Matcha Powder,0.59
+2026-05-07,Matcha Powder,0.87
+2026-05-08,Matcha Powder,0.96
+2026-05-09,Matcha Powder,1.14
+2026-05-10,Matcha Powder,1.01
+2026-05-11,Matcha Powder,0.83
+2026-05-12,Matcha Powder,0.59
+2026-05-13,Matcha Powder,0.88
+2026-05-14,Matcha Powder,0.84
+2026-05-15,Matcha Powder,0.96
+2026-05-16,Matcha Powder,1.21
+2026-05-17,Matcha Powder,0.94
+2026-05-18,Matcha Powder,0.78
+2026-05-19,Matcha Powder,0.7
+2026-05-20,Matcha Powder,0.95
+2026-05-21,Matcha Powder,0.9
+2026-05-22,Matcha Powder,1.04
+2026-05-23,Matcha Powder,1.32
+2026-05-24,Matcha Powder,1.2
+2026-05-25,Matcha Powder,0.63
+2026-05-26,Matcha Powder,0.81
+2026-05-27,Matcha Powder,1.0
+2026-05-28,Matcha Powder,0.89
+2026-05-29,Matcha Powder,1.11
+2026-05-30,Matcha Powder,1.2
+2026-05-31,Matcha Powder,1.1
+2026-06-01,Matcha Powder,0.81
+2026-06-02,Matcha Powder,0.86
+2026-06-03,Matcha Powder,0.8
+2026-06-04,Matcha Powder,0.89
+2026-06-05,Matcha Powder,1.09
+2026-06-06,Matcha Powder,1.31
+2026-06-07,Matcha Powder,1.21
+2026-06-08,Matcha Powder,0.84
+2026-06-09,Matcha Powder,0.98
+2026-06-10,Matcha Powder,0.91
+2026-06-11,Matcha Powder,0.98
+2026-06-12,Matcha Powder,0.71
+2026-06-13,Matcha Powder,1.36
+2026-06-14,Matcha Powder,1.03
+2026-06-15,Matcha Powder,0.7
+2026-06-16,Matcha Powder,0.88
+2026-06-17,Matcha Powder,0.83
+2026-06-18,Matcha Powder,1.07
+2026-06-19,Matcha Powder,1.02
+2026-06-20,Matcha Powder,0.94
+2026-06-21,Matcha Powder,0.89
+2026-06-22,Matcha Powder,0.8
+2026-06-23,Matcha Powder,0.75
+2026-06-24,Matcha Powder,0.87
+2026-06-25,Matcha Powder,1.08
+2026-06-26,Matcha Powder,0.92
+2026-06-27,Matcha Powder,1.26
+2026-06-28,Matcha Powder,1.1
+2026-06-29,Matcha Powder,0.95
+2026-06-30,Matcha Powder,0.92
+2026-07-01,Matcha Powder,0.64
+2026-07-02,Matcha Powder,0.63
+2026-07-03,Matcha Powder,0.69
+2026-07-05,Matcha Powder,0.76
+2026-07-06,Matcha Powder,0.64
+2026-07-07,Matcha Powder,0.99
+2026-07-08,Matcha Powder,1.07
+2026-07-09,Matcha Powder,0.86
+2026-07-10,Matcha Powder,1.01
+2026-07-11,Matcha Powder,1.29
+2026-07-12,Matcha Powder,1.18
+2026-07-13,Matcha Powder,0.9
+2026-07-14,Matcha Powder,0.87
+2026-07-15,Matcha Powder,0.93
+2026-07-16,Matcha Powder,1.03
+2026-07-17,Matcha Powder,0.9
+2026-07-18,Matcha Powder,1.39
+2026-07-19,Matcha Powder,1.16
+2026-07-20,Matcha Powder,0.84
+2026-07-21,Matcha Powder,0.83
+2026-07-22,Matcha Powder,0.7
+2026-07-23,Matcha Powder,0.96
+2026-07-24,Matcha Powder,1.11
+2026-07-25,Matcha Powder,1.22
+2026-07-26,Matcha Powder,0.87
+2026-07-27,Matcha Powder,0.93
+2026-07-28,Matcha Powder,0.84
+2026-07-29,Matcha Powder,0.92
+2026-07-30,Matcha Powder,1.04
+2026-07-31,Matcha Powder,1.09
+2026-08-01,Matcha Powder,1.42
+2026-08-02,Matcha Powder,1.28
+2026-08-03,Matcha Powder,0.8
+2026-08-04,Matcha Powder,0.89
+2026-08-05,Matcha Powder,0.99
+2026-08-06,Matcha Powder,1.0
+2026-08-07,Matcha Powder,1.2
+2026-08-08,Matcha Powder,1.29
+2026-08-09,Matcha Powder,1.17
+2026-08-10,Matcha Powder,0.88

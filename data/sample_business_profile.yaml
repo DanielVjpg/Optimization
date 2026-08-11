@@ -1,0 +1,38 @@
+# Example business profile.
+#
+#   from core.business_profile import BusinessProfile
+#   profile = BusinessProfile.from_yaml("data/sample_business_profile.yaml")
+#
+# Keep one of these per client rather than editing defaults in the code. Every
+# value here is an assumption someone can disagree with, so it belongs in a
+# file you can hand over and argue about — not buried in a module.
+#
+# Unknown keys are preserved rather than rejected, so a profile can carry
+# parameters for modules that do not exist yet.
+
+name: Sample Coffee Shop
+business_type: coffee_shop
+currency_symbol: "$"
+
+# --- inventory -------------------------------------------------------------
+service_level: 0.95           # probability of not stocking out during a lead time
+holding_cost_rate: 0.25       # annual cost of holding $1 of stock
+order_fixed_cost: 4.00        # incremental cost of ONE item line, not a delivery
+max_days_of_cover: 30         # practical ceiling on stock held, whatever EOQ says
+shelf_life_utilization: 0.5   # an order may span half an item's usable life
+stockout_realization_rate: 0.5  # share of unmet demand truly lost vs. substituted
+
+# Fallbacks for items missing catalog data
+default_lead_time_days: 3
+default_case_pack: 1
+default_min_order_qty: 0
+stockout_margin_multiple: 2.0
+
+# --- reserved for planned modules -----------------------------------------
+labor_rate_per_hour: 18.00        # planned: /modules/staffing
+avg_service_time_seconds: 90      # planned: /modules/staffing
+floor_area_sqft: 950              # planned: /modules/layout
+
+notes: >
+  Assumptions drafted from the owner interview on 2026-04-10. Holding cost rate
+  is a placeholder pending the walk-in lease figure.
