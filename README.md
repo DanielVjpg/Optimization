@@ -106,6 +106,32 @@ ingredient that means the margin of the drinks one stock unit produces — a
 gallon of milk making ~22 lattes at ~$2.80 margin is about $62. It drives the
 stockout estimate, so it is worth getting roughly right.
 
+### Preparing a real POS export
+
+POS exports are transaction-level, span several locations, and arrive in
+whatever delimiter the vendor chose. `data/prepare_pos_export.py` reduces one
+to the `sales` table above:
+
+```bash
+python data/prepare_pos_export.py raw_export.csv --catalog
+python data/prepare_pos_export.py raw_export.csv --store "Astoria" --group-by product_type
+```
+
+It detects the delimiter, keeps the busiest location (or `--store`), sums
+quantity per item per day, and optionally writes a starter item catalog with
+menu prices filled in and cost/lead-time/shelf-life columns left blank.
+
+Two things it handles that matter more than they sound. The delimiter is found
+by testing `, | ; \t` and requiring a consistent split, **not** by
+`csv.Sniffer` — on the first real export this project met, the sniffer chose
+`t`, the letter, because it recurs inside "transaction". And item names are
+whitespace-normalised: an export carrying both `"Scottish Cream Scone "` and
+`"Scottish Cream Scone"` otherwise splits one product's history in two,
+halving its forecast and its reorder point.
+
+Output goes to `data/prepared/`, which is gitignored — it is client data and
+is reproducible from the raw export.
+
 ### Business profile
 
 Cost and service assumptions are editable in the sidebar, but for consulting
@@ -385,8 +411,16 @@ those; the sample data does not prove it handles them.
 
 ## Status
 
-Built and tested: the inventory module, end to end, with 127 tests covering the
+Built and tested: the inventory module, end to end, with 150 tests covering the
 policy math against hand calculations, forecaster behaviour, ingestion and
-cleaning, and the full pipeline on the sample data.
+cleaning, POS export preparation, and the full pipeline on the sample data.
+
+Run once against a real 149k-row café export (3 stores, 181 days, 80 menu
+items). It loads and produces a policy for every item, but accuracy splits
+sharply by volume: items selling 10–30/day forecast at ~51% MAE and the
+best at ~31%, while the 22 items selling under 1/day — zero on ~124 of 181
+days — come out above 175%. That is intermittent demand, and it is the
+evidence for moving Croston's method up the v2 list. Aggregating to coarser
+product groups does not help; filtering to items above roughly 3/day does.
 
 Not built: staffing and layout — structure and documented intent only.

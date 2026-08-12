@@ -7,3 +7,7 @@ venv/
 .pytest_cache/
 .streamlit/secrets.toml
 .DS_Store
+
+# Output of data/prepare_pos_export.py: client data, and reproducible from the
+# raw export. Keep real business data out of the repo.
+data/prepared/
