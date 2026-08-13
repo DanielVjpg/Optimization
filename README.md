@@ -132,6 +132,28 @@ halving its forecast and its reorder point.
 Output goes to `data/prepared/`, which is gitignored — it is client data and
 is reproducible from the raw export.
 
+### When there is no purchase history
+
+Sales data says what a shop *used*; without a record of what it *bought*, the
+module can recommend a policy but cannot say whether current ordering is wrong.
+Most small businesses have POS exports and a shoebox of invoices.
+`data/generate_purchase_history.py` simulates a defensible stand-in:
+
+```bash
+python data/generate_purchase_history.py data/prepared/hell_s_kitchen_sales.csv \
+    --catalog data/prepared/hell_s_kitchen_items.csv
+```
+
+Each item gets a realistic cadence (weekly for fast movers, monthly for slow
+ones) and an ordering *behaviour*: tracking demand, a fixed round weekly
+amount, a supplier case minimum, bulk merchandise buys, or reaction lag. The
+baseline deliberately tracks demand rather than trailing it — a growing shop
+ordering off trailing demand under-buys every item, which would swamp any real
+finding.
+
+**The output is synthetic.** It models ordering behaviour honestly, but it is
+not any shop's real purchasing. Label it as a demonstration, never a finding.
+
 ### Business profile
 
 Cost and service assumptions are editable in the sidebar, but for consulting
